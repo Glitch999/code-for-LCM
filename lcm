@@ -39,3 +39,9 @@ def lcm(x, y):
 num1 = int(input("Enter first number: "))  
 num2 = int(input("Enter second number: "))  
 print("The L.C.M. of", num1,"and", num2,"is", lcm(num1, num2)) 
+
+
+Output:
+Enter first number: 5
+Enter second number: 10
+L.C.M. of 5 and 10 is 10
